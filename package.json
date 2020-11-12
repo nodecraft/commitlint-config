@@ -1,6 +1,6 @@
 {
 	"name": "@nodecraft/commitlint-config",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Nodecraft commitlint config",
 	"homepage": "https://github.com/nodecraft/commitlint-config#readme",
 	"bugs": {
@@ -18,9 +18,12 @@
 		"test": "npm run lint"
 	},
 	"devDependencies": {
-		"eslint": "^7.11.0",
-		"eslint-config-nodecraft": "^6.0.1",
+		"eslint": "^7.13.0",
+		"eslint-config-nodecraft": "^6.1.0",
 		"eslint-plugin-json": "^2.1.2",
 		"eslint-plugin-node": "^11.1.0"
+	},
+	"dependencies": {
+		"@commitlint/config-conventional": "^11.0.0"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"name": "@nodecraft/commitlint-config",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Nodecraft commitlint config",
 	"homepage": "https://github.com/nodecraft/commitlint-config#readme",
 	"bugs": {

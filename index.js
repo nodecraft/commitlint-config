@@ -1,4 +1,5 @@
 'use strict';
+/* eslint-disable unicorn/prefer-number-properties */
 module.exports = {
 	extends: ['@commitlint/config-conventional'],
 	rules: {

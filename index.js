@@ -1,6 +1,4 @@
-'use strict';
-/* eslint-disable unicorn/prefer-number-properties */
-module.exports = {
+export default {
 	extends: ['@commitlint/config-conventional'],
 	rules: {
 		'body-max-line-length': [2, 'always', Infinity],
